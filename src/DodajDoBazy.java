@@ -59,7 +59,7 @@ public class DodajDoBazy extends JFrame {
                         JOptionPane.showMessageDialog(null, "Osoba została dodana do bazy");
                     }
                 } else {
-                    JOptionPane.showMessageDialog(null, "Pesel musi posiadać 11 znaków!");
+                    JOptionPane.showMessageDialog(null, "Pesel musi posiadać 11 znaków! ");
                 }
             }
         });
